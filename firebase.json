@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "reseplezatbunda",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
